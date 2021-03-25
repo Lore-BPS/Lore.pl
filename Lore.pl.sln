@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lore.pl", "Lore.pl\Lore.pl.csproj", "{9FE65B8E-522B-4C4D-8261-626C4317EBC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lore.pl_Test", "Lore.pl_Test\Lore.pl_Test.csproj", "{DA342B59-B3EF-4E04-A650-77E67C607222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE65B8E-522B-4C4D-8261-626C4317EBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE65B8E-522B-4C4D-8261-626C4317EBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE65B8E-522B-4C4D-8261-626C4317EBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE65B8E-522B-4C4D-8261-626C4317EBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA342B59-B3EF-4E04-A650-77E67C607222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA342B59-B3EF-4E04-A650-77E67C607222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA342B59-B3EF-4E04-A650-77E67C607222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA342B59-B3EF-4E04-A650-77E67C607222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58DF8ECA-4882-4ACE-B934-0E72A83A46ED}
+	EndGlobalSection
+EndGlobal
